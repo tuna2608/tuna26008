@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuna2608" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/tuna2608" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
-- ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN).
+<!-- - ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN). -->
 - 💻 I'm a self taught Full-Stack Mobile Developer.
-- 🌱 I’m currently learning **Flutter RestAPI.**
+- 🌱 I’m currently learning **Flutter.**
 ## Who am I?
  ```python
  class WhoAmI:
