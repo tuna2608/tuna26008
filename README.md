@@ -67,8 +67,8 @@
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
   <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span>
-&nbsp;
-</p> -->
+&nbsp; -->
+</p>
 👉 Frameworks
 <p align="left">
   <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=0380e7" alt="Flutter logo" title="Flutter" height="25" /></span>
