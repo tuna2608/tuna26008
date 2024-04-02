@@ -11,7 +11,6 @@
  ```python
  class WhoAmI:
  	user = 'Nguyen Anh Tu'
-	current_team = "ROV Team"
 	hobbies = [
 				'Playing Sports',
 				'Watching Anime',
