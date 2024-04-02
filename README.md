@@ -6,7 +6,7 @@
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
 <!-- - ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN). -->
 - 💻 I'm a self taught Full-Stack Mobile Developer.
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **React - Java**
 ## Who am I?
  ```python
  class WhoAmI:
@@ -32,7 +32,7 @@
 <h2 align="center">📫 How to find me:</h2>
 
 <p align="center">
-<!--   <a href="(https://www.linkedin.com/in/nhanhc/)" target="_blank">
+<!--   <a href="" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a> -->
   <a href="https://www.facebook.com/profile.php?id=100011447811687" alt="Facebook">
