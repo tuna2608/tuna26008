@@ -50,7 +50,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 👉 Programming languages
-<p align="left">
+<!-- <p align="left">
    <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=0380e7" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
   <span><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="25" /></span>
@@ -67,11 +67,11 @@
 &nbsp;
   <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span>
 &nbsp; -->
-</p>
+</p> -->
 👉 Frameworks
-<p align="left">
+<!-- <p align="left">
   <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=0380e7" alt="Flutter logo" title="Flutter" height="25" /></span>
-&nbsp;
+&nbsp; -->
 <!--  <span><img src="https://img.shields.io/badge/SwiftUIkit-282C34?logo=swift&logoColor=258FFA" alt="Swift logo" title="Swift" height="25" /></span>
 &nbsp;
  <span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" /></span>
